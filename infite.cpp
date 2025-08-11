@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
    for (;;) {
-       cout << "mahi bhaut sundar hai" << endl;
+       cout << "mera naam sweety hai or i love sagar" << endl;
     }
     return 0;
 }
