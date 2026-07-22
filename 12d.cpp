@@ -9,6 +9,9 @@ for( int i=0;i<3;i++){
 }
 cout<<endl;
 cout<<" going back to main function "<<endl;
+// in arrays always pass by reference
+// pass by value is not possible
+
  }
  
 
@@ -20,6 +23,7 @@ for( int i=0;i<3;i++){
     cout<<arr[i]<<" ";
 }
 
-
+// output will be 120 2 3 as array is passed by reference
+    return 0;
 }
 //pass by value or pass by refrence concept is clear

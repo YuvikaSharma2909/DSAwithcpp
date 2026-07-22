@@ -3,16 +3,16 @@
 using namespace std;
 int main(){
 
-   // QUESTION 1ST
-for (int i = 0; i <= 5; i++)
-{
-    cout <<i<<" ";
-    i++;
-}
+//    // QUESTION 1ST
+// for (int i = 0; i <= 5; i++)
+// {
+//     cout <<i<<" ";
+//     i++;
+// }
 
 // QUESTION 2ND
 
-/*for (int i = 0; i < 5; i++)
+for (int i = 0; i < 5; i++)
 {
     for (int j = i; j <=5; j++)
     {
@@ -20,7 +20,7 @@ for (int i = 0; i <= 5; i++)
     }
     
 }
-*/
+
 //QUSTION 3RD
 for (int i = 0; i < 5; i++)
 {

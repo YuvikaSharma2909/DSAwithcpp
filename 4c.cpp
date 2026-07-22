@@ -15,22 +15,22 @@ else{
     cout<<"negative";
 }*/
 
-/* QUESTION 2*/
-int a=2;
-int b =a+1;
-if((a=2)==b)
-{
-    cout<<a;  
-}
-else 
-{
-    cout<<a+1;
+// /* QUESTION 2*/
+// int a=2;
+// int b =a+1;
+// if((a=2)==b)
+// {
+//     cout<<a;  
+// }
+// else 
+// {
+//     cout<<a+1;
     
-}
-//*/
+// }
+// //*/
 
-}
-/*/QUESTION 3
+// }
+// /*/QUESTION 3
 int a=24;
 if (a>20)
 {
@@ -47,4 +47,3 @@ else
     cout<<a<<endl;
 
 }
-*/

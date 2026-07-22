@@ -12,7 +12,7 @@ int  main()
 //  cout<<"namaste duniya :-)";
   //cout<<"namaste duniya :-)"<<'\n';
 
- cout<<"namaste duniya :-)\n yuvika ";// yvika  print in next line
+ cout<<"namaste duniya :-)\n yuvika ";// yuvika  print in next line
   
 
     return 0;

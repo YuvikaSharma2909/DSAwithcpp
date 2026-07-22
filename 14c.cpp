@@ -1,4 +1,4 @@
-//total occurences of an element 
+//total occurences of an element by linear search
 #include<iostream>
 using namespace std;
 int search(int arr[],int size,int key){

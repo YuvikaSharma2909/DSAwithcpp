@@ -3,21 +3,23 @@
 using namespace std;
 int getmax( int arr[],int n){
 int max=INT_MIN;
-
-
 for(int i=0;i<n;i++)
 {
     if (arr[i]>max){
     max=arr[i];
 } }
 return max;
+
+
 }
+
 int getmin( int arr[],int n){
 int mini=INT_MAX;
 for(int i=0;i<n;i++)
+
 {
     mini=min(mini,arr[i]);//use this functionto get max or min
-   // if (arr[i]<min){
+   // if (arr[i]<mini){
     //min=arr[i];
  }
 return mini;

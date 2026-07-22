@@ -6,12 +6,13 @@ cout<<"enter the value of n:";
 cin>>n;
 int i=1;//i row
 while (i<=n)
-{
+{char ch='A';
     int j=1;//j =coloumn
     while (j<=n)
     {
-        char ch='A'+i-1;//type cas\ting rule
+        // char ch='A'+i-1;//type cas\ting rule
         cout<<ch<<" ";
+        ch=ch+1;
      j=j+1;
     }
     cout<<endl;
